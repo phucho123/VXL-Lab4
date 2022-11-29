@@ -1,0 +1,5 @@
+SCH.c:22:6:SCH_Init	16	static
+SCH.c:31:6:SCH_Add_Task	48	static
+SCH.c:87:6:SCH_Delete_Task	24	static
+SCH.c:108:6:SCH_Update	4	static
+SCH.c:119:6:SCH_Dispatch_Tasks	40	static
